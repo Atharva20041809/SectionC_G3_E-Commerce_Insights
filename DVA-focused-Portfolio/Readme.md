@@ -13,3 +13,8 @@ Live Portfolio: [https://dva-portfolio-delta.vercel.app/](https://dva-portfolio-
 # Rachit Gupta Portfolio
 
 Live Portfolio: [https://dva-portfolio-delta.vercel.app/](https://dva-portfolio-six-plum.vercel.app/)
+
+# Tanmay Singh Portfolio
+
+Live Portfolio: [https://tanmay-dva.vercel.app/](https://dva-portfolio-six-plum.vercel.app/)
+
